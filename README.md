@@ -1,18 +1,34 @@
-## Getting Started
+# 🧩 Sudoku Game (Java Swing)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A feature-rich and interactive Sudoku game built using **Java Swing**, designed with a clean UI and enhanced gameplay experience.
 
-## Folder Structure
+This project demonstrates concepts of **event-driven programming, GUI design, and game logic implementation** in Java.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- 🎯 Multiple Difficulty Levels (Easy, Medium, Hard)
+- ⏱ Real-time Timer
+- ❌ Error Tracking System
+- 💡 Hint Feature
+- 🌙 Dark Mode / Light Mode Toggle
+- 🔄 Restart / New Game Option
+- 🎨 Responsive and Clean UI Design
+- 🔢 Interactive Number Selection
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🛠 Tech Stack
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Language:** Java  
+- **Framework:** Swing (Java GUI)  
+- **Concepts Used:**
+  - OOP (Object-Oriented Programming)
+  - Event Handling
+  - UI/UX Design
+  - Game State Management
+
+---
+
+## 📂 Project Structure
