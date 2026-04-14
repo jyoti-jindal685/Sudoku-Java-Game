@@ -29,6 +29,4 @@ This project demonstrates concepts of **event-driven programming, GUI design, an
   - UI/UX Design
   - Game State Management
 
----
 
-## 📂 Project Structure
